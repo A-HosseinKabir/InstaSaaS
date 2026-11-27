@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\bin\Debug\net8.0\InstaSaaS.Domain.deps.json
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\bin\Debug\net8.0\InstaSaaS.Domain.dll
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\bin\Debug\net8.0\InstaSaaS.Domain.pdb
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\InstaSaaS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\InstaSaaS.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\InstaSaaS.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\InstaSaaS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\InstaSaaS.Domain.dll
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\refint\InstaSaaS.Domain.dll
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\InstaSaaS.Domain.pdb
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\ref\InstaSaaS.Domain.dll
+C:\Users\Dell\Desktop\InstaSaaS\InstaSaaS\src\InstaSaaS.Domain\obj\Debug\net8.0\InstaSaa.EE065672.Up2Date
